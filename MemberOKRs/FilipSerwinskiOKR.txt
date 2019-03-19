@@ -1,0 +1,32 @@
+Name: Filip Serwinski
+
+Objectives and Key Results (OKR)
+
+Week of March 18th
+- Assist in the prototype level design (1-2 hrs)
+- Assist in the SW prototype demo developement for Wednesday's class (1-3 hrs)
+
+Week of March 25th
+- Work on enhancing the software level design (1-4 hrs)
+- Create/find assets for the game 
+- Work on physics for the game
+
+Week of April 1st
+- Work on the AI enemies (1-4 hrs)
+- More physics such as water for river
+
+Week of April 8th
+- Work on the centerpoint waterfall of the level
+- Assist in vegetation for the game
+
+Week of April 15th
+- Finish any final changes to the alpha version
+- Make sure alpha version is working
+- Make changes or updates for the beta release
+
+Week of April 22nd
+- Finalize any Beta upgrades or changes
+- Make sure beta version is working
+
+Week of April 29th
+- Practice public demo presentation

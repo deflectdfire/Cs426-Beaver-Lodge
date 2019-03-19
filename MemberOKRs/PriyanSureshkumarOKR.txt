@@ -1,0 +1,16 @@
+Name: Filip Serwinski
+
+Objectives and Key Results (OKR)
+
+March 18th
+- Design beaver community mechanics (2 hrs)
+
+March 19th
+- Developing basic In-game items for survival (4-5 hrs)
+- Design Alpha Beaver and Beaver community inventory system (4-5 hrs)
+
+March 25th
+- Implement basic non-hostile allies/beavers (3-4 hrs)
+
+April 1st
+- Diversify beaver ally roles and functions for gameplay (4-5 hrs)
