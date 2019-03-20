@@ -1,0 +1,12 @@
+Shyam Patel
+658428658
+Mar 18, 2019
+Asgn07: Objectives and Key Results (OKR)
+
+
+Schedule and deliverable:
+
+- Contribute to prototype level design -- Tue by 5pm (estimate: 1-3 hrs)
+- Create HUD display with player's lives and health meter for the SW prototype -- Tue by 5pm (estimate: 1-2 hrs)
+- Set up player movement -- Tue by 5pm (estimate: 1 hr)
+- Set up food consumption to replenish health -- Tue by 5pm (estimate: 1 hr)

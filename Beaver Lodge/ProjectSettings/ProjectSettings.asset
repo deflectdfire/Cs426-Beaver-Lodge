@@ -597,6 +597,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -617,10 +618,10 @@ PlayerSettings:
   facebookXfbml: 0
   facebookFrictionlessRequests: 1
   apiCompatibilityLevel: 6
-  cloudProjectId: 23ad746e-3aa2-4685-ab34-5c8523dfa7da
+  cloudProjectId: 2758629e-35e0-4943-983d-2c5dba178cef
   framebufferDepthMemorylessMode: 0
-  projectName: Beaver Lodge (2)
-  organizationId: unity_hpetcgyik6ua3w
+  projectName: Beaver Lodge
+  organizationId: cs_426_finalproject
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
