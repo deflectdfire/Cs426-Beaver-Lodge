@@ -6,6 +6,4 @@ A serious game about beavers survival, with attention to formal elements, level 
 
 Design Document: https://docs.google.com/document/d/1a_OoxZ_3SDDmOdxhnXFPHtBxrsQLyAH72Yvzu2tGelE/edit?usp=sharing
 
-GitHub Project Repository: https://github.com/deflectdfire/Cs426-Beaver-Lodge
-
 Trello Bug Tracker: https://trello.com/b/awjLtiob
